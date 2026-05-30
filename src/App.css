@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 button{
 background-color:aqua;
 color: red;
@@ -8,6 +9,17 @@ margin: 30px auto;
 
 
 
+=======
+
+.Student-info{
+background-color:green;
+color: black;
+width: 100px;
+margin: 40px auto;
+padding: 50px;
+}
+
+>>>>>>> 6e9ecef39b93f12d15653586233ff43044783c2d
 .counter {
   font-size: 16px;
   padding: 5px 10px;

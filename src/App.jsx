@@ -3,6 +3,7 @@ import reactLogo from './assets/react.svg'
 import viteLogo from './assets/vite.svg'
 import heroImg from './assets/hero.png'
 import './App.css'
+<<<<<<< HEAD
 
 function App() {
 
@@ -26,6 +27,19 @@ setCount(0)
 <button onClick={decrement}>Decrement</button>
 <br /><br />
 <button onClick={reset}>Reset</button> 
+=======
+import Student from './Student'
+
+function App() {
+
+
+  return (
+   <>
+   <h2>Student Information</h2>
+<Student name="Raj" course="B.tech" marks="90" />
+<Student name="Ram" course="M.tech" marks="95" />
+<Student name="Rohan" course="MCA" marks="99" />
+>>>>>>> 6e9ecef39b93f12d15653586233ff43044783c2d
     </>
   )
 }
