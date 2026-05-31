@@ -32,7 +32,7 @@ document.getElementById("resetBtn").addEventListener("click", function () {
 heading.innerHTML = "Welcome to JavaScript Lab";
 paragraph.style.display = "block";
 paragraph.style.fontSize = "16px";
-document.body.style.backgroundColor = "#f4f4f4";
+document.body.style.backgroundColor = "#edeaea";
 input.value = "";
 fontSize = 16;
 });
